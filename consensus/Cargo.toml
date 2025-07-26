@@ -22,7 +22,7 @@ serde = { version = "1.0.87", features = ["derive"] }
 tokio = "0.1.11"
 termion = "1.5.1"
 lazy_static = "1.3.0"
-rmp-serde = "0.13.7"
+rmp-serde = "1.3.0"
 
 canonical_serialization = { path = "../common/canonical_serialization" }
 channel = { path = "../common/channel" }
